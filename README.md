@@ -101,10 +101,7 @@ were creating an `img` tag with `src`, `alt` and `title` for a company logo, it
 might look something like this:
 
 ```html
-<img
-  src="../images/my_company_logo.png"
-  alt="my company name"
-  title="We're here to help you!"
+<img 
 />
 ```
 
